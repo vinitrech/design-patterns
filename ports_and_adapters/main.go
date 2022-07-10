@@ -1,4 +1,4 @@
-package hexagonal_architecture
+package ports_and_adapters
 
 import (
 	"fmt"
