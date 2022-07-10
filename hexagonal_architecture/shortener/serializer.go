@@ -1,4 +1,4 @@
-package hexagonal_architecture
+package shortener
 
 type RedirectSerializer interface {
 	Decode(input []byte) (*Redirect, error)

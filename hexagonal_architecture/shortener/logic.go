@@ -1,12 +1,11 @@
-package hexagonal_architecture
+package shortener
 
 import (
 	"errors"
-	"time"
-
 	errs "github.com/pkg/errors"
 	"github.com/teris-io/shortid"
 	"gopkg.in/dealancer/validate.v2"
+	"time"
 )
 
 var (

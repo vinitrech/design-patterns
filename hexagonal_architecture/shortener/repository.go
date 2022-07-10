@@ -1,4 +1,4 @@
-package hexagonal_architecture
+package shortener
 
 type RedirectRepository interface {
 	Find(code string) (*Redirect, error)
