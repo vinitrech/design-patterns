@@ -1,12 +1,7 @@
-//Design patterns are used to provide a way to standardize encapsulation/calls of objects.
-
-//The ports and adapters pattern aims at
-//creating loosely coupled application components that can be easily connected to their software
-//environment by means of ports and adapters. This makes components exchangeable at any level and
-//facilitates test automation.
-
 package main
 
-func main() {
+import "fmt"
 
+func main() {
+	fmt.Println("Welcome to the design patterns course!")
 }

@@ -1,0 +1,1 @@
+This repository contains implementations of solid principles, and many design patterns.
